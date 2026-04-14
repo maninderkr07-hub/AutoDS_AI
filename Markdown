@@ -1,0 +1,33 @@
+# 🚀 AutoDS AI — Multi-Agent AI Data Scientist (SaaS)
+
+> Upload a dataset → Get insights, models, and business decisions automatically
+
+---
+
+## 🧠 Overview
+
+**AutoDS AI** is a production-style AI system that automates the entire data science workflow using **Multi-Agent AI + RAG (Retrieval-Augmented Generation)**.
+
+It simulates how real data teams work by combining:
+- 📊 Data Analyst (EDA & insights)
+- ⚙️ ML Engineer (model building & evaluation)
+- 💼 Business Analyst (decision-making)
+
+All powered by **LLMs + Machine Learning pipelines**.
+
+---
+
+## 🔥 Key Features
+
+- 📁 Upload CSV dataset  
+- 📊 Automated EDA & visualization  
+- 🤖 Multi-Agent AI system  
+- 💬 Chat with your dataset (RAG powered)  
+- ⚙️ Auto ML model building & comparison  
+- 📈 Feature importance & predictions  
+- 🔐 User login & project management (SaaS)  
+- ⬇️ Download trained model  
+
+---
+
+## 🧩 System Architecture
